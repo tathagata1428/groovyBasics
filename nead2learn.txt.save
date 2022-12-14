@@ -1,0 +1,5 @@
+1. Groovy data types.
+2. what is a method
+3.what is a class
+to find out class
+=>>println x.getClass()
